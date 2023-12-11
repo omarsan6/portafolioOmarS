@@ -426,9 +426,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #fff;
   padding: 80px 0;
 }
-#about .about-container {
+/* #about .about-container {
   background: url(../img/yo.jpg) left top no-repeat;
-}
+} */
 #about .about-content {
   background: #fff;
 }
@@ -442,6 +442,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 #about .about-text:last-child {
   margin-bottom: 0;
+}
+
+.yo{
+  max-width: 80%;
 }
 
 /* Services Section
